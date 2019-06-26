@@ -1,0 +1,586 @@
+.top
+{
+    background-color:whitesmoke;
+    height:20%;
+    width: 100%;
+    border-radius:15px;
+   margin-top: 0px;
+    border-color: dimgrey;
+    border: 2px;
+    position: fixed;
+    margin-bottom: 120px;
+   background-color:#2727fd;
+    z-index: 1;
+    top:0px;
+    
+    
+}
+.nav
+{
+    float: right;
+   
+    margin-top:5rem;
+    margin-right:5rem;
+    display: inline-block;
+    height: auto;
+    width: auto;
+    color: white;
+    font-size: 17px;
+}
+.home
+{
+    display: inline-block;
+    margin:5px;
+    font-family: 'Josefin Sans', sans-serif;
+    box-sizing: border-box;
+      padding: 3px 16px;
+    font-size: 17px;
+    
+    
+    
+}
+.contact
+{
+    display: inline-block;
+     margin:5px;
+     font-family: 'Josefin Sans', sans-serif;
+    box-sizing: border-box;
+      padding: 3px 16px;
+}
+.about
+{
+   display: inline-block;
+     margin:5px;
+     font-family: 'Josefin Sans', sans-serif;
+     box-sizing: border-box;
+      padding: 3px 16px;
+  
+}
+
+.logo
+{
+    height:100px;
+    width:100px ;
+    margin-left:15px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius:10px;
+box-shadow: 10px 15px 25px black;
+    display: inline-block;
+}
+.row1{
+    margin-top:140px;
+    display: inline-block;
+    height: 330px;
+    width:100%;
+  background-blend-mode: darken;
+    background-color:whitesmoke;
+    border-radius: 60px;
+    
+    
+}
+.firstimage
+{
+    
+    display:inline-block;
+    height:300px;
+    width:20%;
+    background-color:snow;
+margin-top:12px;
+       margin-left: 4.7rem;
+   overflow:hidden;
+    box-sizing:content-box;
+    border-bottom-left-radius:40px;
+    border-top-right-radius: 40px;
+    box-shadow: 10px 15px 25px #888888;
+    border-right-style: groove;
+    border-bottom-style: groove;
+    transition: all 1.2s;
+    
+}
+.firstimage .f1
+{
+    height:60%;
+    width:80%;
+    margin-top: 17px;
+    margin-left:25px;
+    transition: transform 2s;
+    border-radius: 5px;
+    box-shadow: 5px 10px 20px gray;
+
+}
+.f1_img
+{
+    margin-left:9px;
+    margin-top:9px;
+    margin-right:9px;
+    display: inline-block;
+    align-content: center;
+    overflow: hidden;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    background-color:seashell;
+}
+.content1 p
+{
+    margin:1px;
+    font-size:15px;
+    text-align: center;
+font-family: 'Pacifico', cursive;
+    box-sizing: content-box;
+    text-shadow: 2px 4px 5px gray;
+    transition: all 0.15s;
+  
+}
+.secondimage
+{
+    display:inline-block;
+    height:300px;
+    width:20%;
+    background-color:snow;
+margin-top:12px;
+    margin-left: 1.5rem;
+   overflow:hidden;
+    box-sizing:content-box;
+        border-bottom-right-radius:40px;
+    border-top-left-radius: 40px;
+     box-shadow: 10px 15px 25px #888888;
+    border-left-style: groove;
+    border-bottom-style: groove;
+        transition: all 1.2s;
+  
+ }
+.secondimage .f2
+{
+  height:60%;
+    width:80%;
+    margin-top: 20px;
+    margin-left: 25px;
+   transition: transform 2s;
+    border-radius: 5px;
+       box-shadow: 5px 10px 20px gray;
+}
+.f2_img
+{
+    margin-left:9px;
+    margin-top:9px;
+    margin-right:9px;
+    display: inline-block;
+    align-content: center;
+    overflow: hidden;
+     border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+     background-color:seashell;
+     
+}
+.content2 .f2_p
+{
+    margin:2px;
+    font-size:15px;
+    text-align: center;
+font-family: 'Pacifico', cursive;
+        text-shadow: 2px 4px 5px gray;
+     transition: all 0.15s;
+
+}
+.thirdimage
+{
+ 
+    display:inline-block;
+    height:300px;
+    width:20%;
+    background-color:snow;
+margin-top:12px;
+    margin-left: 10px;
+     margin-left: 1.5rem;
+   overflow:hidden;
+    box-sizing:content-box;
+    border-bottom-left-radius:40px;
+    border-top-right-radius: 40px;
+     box-shadow: 10px 15px 25px #888888;
+    border-right-style: groove;
+    border-bottom-style: groove;
+        transition: all 1.2s;
+    }
+   
+.thirdimage .f3{
+       height:60%;
+    width:80%;
+    margin-top: 20px;
+    margin-left: 25px;
+   transition: transform 2s;
+    border-radius: 5px;
+       box-shadow: 5px 10px 20px gray;
+}
+.f3_img
+{
+    margin-left:9px;
+    margin-top:9px;
+    margin-right:9px;
+    display: inline-block;
+    align-content: center;
+    overflow: hidden;
+     border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+     background-color:seashell;
+}
+.content3 .f3_p
+{
+    font-size:15px;
+    margin-top:7px;
+    text-align: center;
+font-family: 'Pacifico', cursive;
+    text-shadow: 2px 4px 5px gray;
+     transition: all 0.15s;
+
+}
+.fourthimage
+{ 
+    display:inline-block;
+    height:300px; 
+    width:20%;
+    background-color:snow;
+margin-top:12px;
+    margin-left: 10px;
+     margin-left: 1.5rem;
+   overflow:hidden;
+    box-sizing:content-box;
+      border-bottom-right-radius:40px;
+    border-top-left-radius: 40px;
+     box-shadow: 10px 15px 25px #888888;
+    border-left-style: groove;
+    border-bottom-style: groove;
+        transition: all 1.2s;
+}
+.fourthimage .f4
+{ 
+     height:60%;
+    width:80%;
+    margin-top: 20px;
+    margin-left: 25px;
+   transition: transform 2s;
+    border-radius: 5px;
+    box-shadow: 5px 10px 20px gray;
+}
+.f4_img
+{
+    margin-left:9px;
+    margin-top:9px;
+    margin-right:9px;
+    display: inline-block;
+    align-content: center;
+    overflow: hidden;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+     background-color:seashell;
+}
+.content4 .f4_p
+{
+    font-size:15px;
+    text-align: center;
+font-family: 'Pacifico', cursive;
+        text-shadow: 2px 4px 5px gray;
+     transition: all 0.15s;
+
+}
+.bottom
+{
+    margin-top:2rem;
+    height:50%;
+    width: 100%;
+    background-color: deepskyblue;
+}
+/*ceo section*/
+.ceo
+{
+    background-color: whitesmoke;
+    border-radius:60px;
+    margin-top:1.5rem;
+    height:400px;
+    width: auto;
+}
+.praveen
+{
+    
+    height:300px;
+    width: 250px;
+    margin-left:430px;
+    display: inline-block;
+    box-sizing: border-box;
+    box-shadow: 5px 10px 20px gray;
+    background-color:snow;
+    border-radius:50px;
+}
+.praveen img
+{
+    height: 100px;
+    width: 100px;
+   margin-top:7px;
+    margin-left:30%;
+    border-radius: 99px;
+   box-shadow: 5px 10px 7px gray;
+    
+}
+.bala
+{
+     height:300px;
+    width: 250px;
+    margin-left:25px;
+    display: inline-block;
+    box-sizing: border-box;
+    box-shadow: 5px 10px 20px gray;
+    background-color: snow;
+     border-radius:50px;
+}
+.bala img
+{
+     height: 100px;
+    width: 100px;
+     margin-top:8px;
+    margin-left:30%;
+    border-radius: 90px;
+    box-shadow: 5px 10px 7px gray;
+    
+}
+.ads
+{
+    
+    height:250px;
+    width: 100%;
+    background-image: url(joinus.jpg);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    }
+.ads .txt
+{
+    font-family: 'Bevan', cursive;
+   text-rendering: optimizeSpeed;
+    animation: glow 2.5s infinite;
+}
+@keyframes glow
+{
+    0%
+    {
+        text-shadow:2px 2px 7px gold;
+        color: snow;
+    }
+   
+    
+}
+.service
+{
+    margin-top: 1.5rem;
+    height: 300px;
+    width: 100%;
+    background-color: whitesmoke;
+    border-radius: 60px;
+}
+.edu
+{
+    margin: 25px;
+    margin-top:2px;
+    margin-left: 120px;
+    display: inline-block;
+    height: 80%;
+    width: 25%;
+    background-color:snow;
+    border-radius: 40px;
+}
+.edu img
+{
+    height:inherit;
+    width:inherit;
+   border-radius: 60px; 
+}
+.edu_glow
+{
+    margin-left:30%;
+    height:auto;
+        margin-top:5px;
+    width:110;
+     background-color:ghostwhite;
+       border-radius: 60px; 
+    border: 1px Solid black;
+}
+.consult
+{
+    margin: 20px;
+    margin-top:2px;
+    display:inline-block;
+    height: 80%;
+    width: 25%;
+    background-color:snow;
+     border-radius: 40px;
+}
+.consult img
+{
+    height:inherit;
+    width:inherit;
+    border-radius: 60px;
+}
+.consult_glow
+{
+    margin-left:30%;
+    margin-top:5px;
+    height:auto;
+    width:110;
+     background-color: ghostwhite;
+      border-radius: 60px;   
+    border: 1px Solid black;
+}
+.devolp
+{
+    margin: 25px;
+    margin-top:2px;
+    display: inline-block;
+    height: 80%;
+    width:25%;
+    background-color: snow;
+     border-radius: 40px;
+    
+}
+.devolp img
+{
+    height:inherit;
+    width:inherit;
+        
+}
+.devolp_glow
+{
+    margin-left:30%;
+        margin-top:5px;
+    height:auto;
+    width:110px;
+     background-color: ghostwhite;
+    border-radius: 60px;
+    border: 1px Solid black;
+}
+.service p
+{
+           
+}
+
+
+.f1:hover
+{
+    
+    transform: scale(1.3);
+    transition-timing-function: cubic-bezier(.19,1,.22,1);
+}
+.f2:hover
+{
+    
+    transform: scale(1.3);
+     transition-timing-function: cubic-bezier(.19,1,.22,1);
+}.f3:hover
+{
+    
+    transform: scale(1.3);
+        transition-timing-function: cubic-bezier(.19,1,.22,1);
+;
+}.f4:hover
+{
+    
+    transform: scale(1.3);
+        transition-timing-function: cubic-bezier(.19,1,.22,1);
+}
+.f1_p:hover
+{
+    font-size: 16px;
+    text-shadow:3px 3px 6px gold;
+}
+.f2_p:hover
+{
+    font-size: 16px;
+    text-shadow:3px 3px 6px gold;
+}.f3_p:hover
+{
+    font-size: 16px;
+    text-shadow:3px 3px 6px gold;
+}
+.f4_p:hover
+{
+    font-size: 16px;
+    text-shadow:3px 3px 6px gold;
+}
+.firstimage:hover
+{
+    transform: scale(1.05);
+    
+}
+.secondimage:hover
+{
+    transform: scale(1.05);
+    
+}
+.thirdimage:hover
+{
+    transform: scale(1.05);
+    
+}
+.fourthimage:hover
+{
+    transform: scale(1.05);
+    
+}
+.praveen:hover
+{
+  transform: scale(1.1);
+transition: 0.20s linear;
+    
+}
+.bala:hover
+{
+    transform: scale(1.1);
+    transition: 0.20s linear;
+}
+.edu:hover
+{
+    transform: scale(1.1);
+    box-shadow: 7px 7px 7px gray;
+    border-right-style:inherit;
+    text-shadow: 2px 4px 5px gray;
+    font-weight: bold;
+}
+.devolp:hover
+{
+    transform: scale(1.1);
+    box-shadow: 7px 7px 7px gray;
+    border-right-style:inherit;
+    text-shadow: 2px 4px 5px gray;
+    font-weight: bold;
+}
+.consult:hover
+{
+    transform: scale(1.1);
+    box-shadow: 7px 7px 7px gray;
+    border-right-style:inherit;
+    text-shadow: 2px 4px 5px gray;
+    font-weight: bold;
+}
+.home:hover
+{
+    transition: 0.15s linear;
+    background-color: white;
+    color: blue;
+    position: relative;
+    border-radius: 3px;
+
+}
+.about:hover
+{
+    transition: 0.15s linear;
+    background-color: white;
+    color: blue;
+    position: relative;
+    border-radius: 3px;
+
+}
+.contact:hover
+{
+    transition: 0.15s linear;
+    background-color: white;
+    color: blue;
+    position: relative;
+    border-radius: 3px;
+
+}
